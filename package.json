@@ -1,0 +1,8 @@
+{
+  "name": "beerme",
+  "version": "1.0.0",
+  "description": "MSC react app",
+  "main": "index.js",
+  "author": "pedrotpo <pedrotpoliveira@gmail.com>",
+  "license": "MIT"
+}
